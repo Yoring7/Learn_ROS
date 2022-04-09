@@ -1,0 +1,8 @@
+prefix=/home/louyuxian/code/learn_ros/hello_ws/devel
+
+Name: helloworld
+Description: Description of helloworld
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

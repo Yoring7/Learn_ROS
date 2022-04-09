@@ -1,0 +1,2 @@
+plumbing_param_server:plumbing_server_client:plumbing_turtle:tcp_pub_sub
+-DCMAKE_BUILD_TYPE=RelWithDebInfo -DCATKIN_DEVEL_PREFIX=/home/louyuxian/code/learn_ros/rostcp_ws/devel -DCMAKE_INSTALL_PREFIX=/home/louyuxian/code/learn_ros/rostcp_ws/install -G Unix Makefiles

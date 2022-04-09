@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/louyuxian/code/learn_ros/rostcp_ws/devel/setup.sh
